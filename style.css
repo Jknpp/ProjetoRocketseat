@@ -161,7 +161,7 @@ ul li a:hover{
             --bg-url: url(./assets/bg-desktop.jpg);
         }
 
-        .light {
+        .Light {
             --bg-url: url(./assets/bg-desktop-light.jpg);
         }
     }
